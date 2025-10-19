@@ -10,3 +10,11 @@ Flowflix is committed to cooperating in good faith with copyright holders and wi
 
 By using Flowflix, users acknowledge that third-party extensions are developed independently, and any issues concerning copyright violations should be addressed directly to the respective developers or hosting platforms. Flowflix remains dedicated to lawful operation, responsible platform management, and cooperation with copyright holders where feasible.
 </details>
+
+---
+
+### 🔗 Links
+
+- [FlowFlix](https://github.com/FlowFlix/FlowFlix)
+- [Official Addons](https://github.com/FlowFlix/FlowFlix-Official_addons)
+- [Addons Docs](https://github.com/FlowFlix/FlowFlix-Addon_docs)
